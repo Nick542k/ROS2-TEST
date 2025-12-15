@@ -1,18 +1,17 @@
 # ROS2-TEST
 "THIS PROJECT WILL BE FINISHED EVEN IT'S UGLY"
 
-DAY 1 
+#DAY 1 
  -created pkg>publisher>subscriber>launch>log
  -errors faced:1
-DAY2
+#DAY2
 -created my own code
 -errors faced:3
-DAY3
+#DAY3
 -created parameters
 -errors faced:1
 ----Finished-----
 
-#################
 # ROS2 Sensor Monitor
 
 ## Description
