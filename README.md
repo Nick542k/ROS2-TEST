@@ -19,3 +19,5 @@
 ##DAY5
 - Arduino serial data published to ROS topic
 - Replaced simulated data with real hardware input
+- Full Arduino → ROS → subscriber → logger pipeline working
+- System runs from a single launch file
