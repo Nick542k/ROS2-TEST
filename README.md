@@ -15,3 +15,7 @@
 
 ##DAY4
 -arduino to pc serial data working
+
+##DAY5
+- Arduino serial data published to ROS topic
+- Replaced simulated data with real hardware input
