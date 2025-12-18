@@ -22,3 +22,7 @@
 - Full Arduino → ROS → subscriber → logger pipeline working
 - System runs from a single launch file
 - integrated an IR sensor with ROS 2 using Arduino and serial communication, publishing real-time obstacle detection
+
+##DAY6 
+-intergratted smoke sensor with arduino
+-created a launch file
